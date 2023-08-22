@@ -22,7 +22,7 @@ jobs:
       with: 
         server: 20.62.174.232
         username: ${{ secrets.ftp_username }}
-        password: ${{ secret.ftp_password }}
+        password: ${{ secrets.ftp_password }}
         server-dir: www/
 
 
