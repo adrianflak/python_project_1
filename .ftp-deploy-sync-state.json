@@ -1,0 +1,19 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1692729951053,
+    "data": [
+        {
+            "type": "file",
+            "name": "myproject.py",
+            "size": 173,
+            "hash": "205cdd247f3be52021170a9e8638d5b7a67ef6a7b73fba596418e1a2e7655656"
+        },
+        {
+            "type": "file",
+            "name": "wsgi.py",
+            "size": 65,
+            "hash": "3075815836e0234505f32aff2c60bea017e5f566d51055a98bb79bfbe94bbac8"
+        }
+    ]
+}
